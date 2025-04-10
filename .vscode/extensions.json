@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "bierner.github-markdown-preview",
+        "shd101wyy.markdown-preview-enhanced",
+        "yzhang.markdown-all-in-one",
+        "github.vscode-pull-request-github",
+        "github.vscode-github-actions",
+    ]
+}
